@@ -45,8 +45,8 @@ Topics Covered
     
     Flask web development
 
-Databases
-
-Game development
-
-Capstone projects
+    Databases
+    
+    Game development
+    
+    Capstone projects
